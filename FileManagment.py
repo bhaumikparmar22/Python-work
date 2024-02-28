@@ -1,5 +1,5 @@
 print("******************************************************")
-file=open("tops1.txt,"w")
+file=open("tops1.txt","w")
 file.write("This is file management demo using in python.")
 file.close()
 print("File Written Successfully")
